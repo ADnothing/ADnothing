@@ -1,6 +1,6 @@
 # Adrien Anthore – ObAS
 
-Welcome to my GitHub profile! I am aastrophysicist specializing in Radioastronomy, Machine Learning (ML) and Big Data.
+Welcome to my GitHub profile! I am aastrophysicist specializing in Radioastronomy, Machine Learning and Big Data.
 
 ---
 

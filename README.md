@@ -6,7 +6,7 @@ Welcome to my GitHub! I am a Study Engineer at the Strasbourg Observatory (ObAS)
 
 ## About Me
 
-- **Position:** Study Engineer at [Strasbourg Observatory (ObAS)](astro.unistra.fr/fr/)
+- **Position:** Study Engineer at [Strasbourg Observatory (ObAS)](https://astro.unistra.fr/fr/)
 - **Expertise:**  
   - Radioastronomy (continuum & HI)
   - Galaxies, galaxy evolution

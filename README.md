@@ -8,11 +8,9 @@ Welcome to my GitHub! I am a Study Engineer at the Strasbourg Observatory (ObAS)
 
 - **Position:** Study Engineer at [Strasbourg Observatory (ObAS)](astro.unistra.fr/fr/)
 - **Expertise:**  
-  - Radioastronomy
-  - Galaxies, HI in galaxies
+  - Radioastronomy (continuum & HI)
+  - Galaxies, galaxy evolution
   - Machine Learning, Deep Learning
   - High Performance Computing & Data Analytics (HPC/HPDA)
-- **Programming Languages:** Python, C, CUDA
-- **ML Framework:** [CIANNA](https://github.com/Deyht/CIANNA)
 
 For more details, please check my [website](https://adnothing.github.io/) or my other [links](https://linktr.ee/lobservatoiredadrien)!

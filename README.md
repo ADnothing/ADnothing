@@ -16,4 +16,4 @@ Welcome to my GitHub! I am a Study Engineer at the Strasbourg Observatory (ObAS)
 - **ML Framework:** [CIANNA](https://github.com/Deyht/CIANNA)
 
 For more details, please check my [website](https://adnothing.github.io/) or my other [links](https://linktr.ee/lobservatoiredadrien)!  
-For collaborations, please contact me at this address: adrien *dot* anthore *at* astro *dot* unistra *dot* fr
+For collaborations, please contact me at this address: adrien*dot*anthore*at*astro*dot*unistra*dot*fr

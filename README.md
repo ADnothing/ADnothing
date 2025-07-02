@@ -1,6 +1,6 @@
 # Adrien Anthore, Study Engineer – ObAS
 
-Welcome to my GitHub! I am a Study Engineer at the Strasbourg Observatory (ObAS), specializing in Radioastronomy, Machine Learning (ML) and High Performance Computing/Data Analytics (HPC/HPDA).
+Welcome to my GitHub! I am a Study Engineer at the Strasbourg Observatory (ObAS), specializing in Radioastronomy, Machine Learning (ML) and Big Data.
 
 ---
 
@@ -11,6 +11,6 @@ Welcome to my GitHub! I am a Study Engineer at the Strasbourg Observatory (ObAS)
   - Radioastronomy (continuum & HI)
   - Galaxies, galaxy evolution
   - Machine Learning, Deep Learning
-  - High Performance Computing & Data Analytics (HPC/HPDA)
+  - Big Data, High Performance Computing & Data Analytics (HPC/HPDA)
 
 For more details, please check my [website](https://adnothing.github.io/) or my other [links](https://linktr.ee/lobservatoiredadrien)!

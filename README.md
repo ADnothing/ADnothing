@@ -1,12 +1,12 @@
 # Adrien Anthore – ObAS
 
-Welcome to my GitHub profile! I am aastrophysicist specializing in Radioastronomy, Machine Learning and Big Data.
+Welcome to my GitHub profile! I am an astrophysicist specializing in Radioastronomy, Machine Learning and Big Data.
 
 ---
 
 ## About Me
 
-- **Position:** Study Engineer at [Strasbourg Observatory (ObAS)](https://astro.unistra.fr/fr/)
+- **Position:** PhD student at [Strasbourg Observatory (ObAS)](https://astro.unistra.fr/fr/)
 - **Expertise:**  
   - Radioastronomy (continuum & HI)
   - Galaxies, galaxy evolution
